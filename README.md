@@ -24,3 +24,5 @@
 
 	Проверить работоспособность контракта можно на remix.ethereum.org/ 
 
+##### Ссылка на проект в сети ropsten
+	https://ropsten.etherscan.io/address/0xd149b9c83e3ee94819f4102ff29acd230433c526
